@@ -1,2 +1,2 @@
 # test
-testRepo for me
+testRepo for me only
